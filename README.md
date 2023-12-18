@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabh156&label=Profile%20views&color=0e75b6&style=flat" alt="vrushabh156" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrushabh156" alt="vrushabh156" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@vrushabhlewade](https://medium.com/@vrushabhlewade)
 
 - 💬 Ask me about **Android App Development**
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushabh156&show_icons=true&locale=en" alt="vrushabh156" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabh156&" alt="vrushabh156" /></p>
+
