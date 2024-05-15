@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabh156&label=Profile%20views&color=0e75b6&style=flat" alt="vrushabh156" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@vrushabhlewade](https://medium.com/@vrushabhlewade)
-
 - 💬 Ask me about **Android App Development**
 
 - 📫 How to reach me **vrushabhlewade@gmail.com**
